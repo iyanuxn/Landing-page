@@ -196,7 +196,7 @@ button:hover {
 }
 
 .recommended-item img {
-    width: auto;
+    width: 100%;
     height: auto;
     margin-bottom: 2vh;
 }
