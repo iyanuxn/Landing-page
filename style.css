@@ -77,6 +77,10 @@ nav {
     margin-bottom: 10vw;
 }
 
+.right-col-lg {
+    display: none;
+}
+
 .carousel {
     margin-top: 2vh;
     overflow: hidden;
